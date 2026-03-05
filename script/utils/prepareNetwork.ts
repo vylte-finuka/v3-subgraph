@@ -16,6 +16,7 @@ export enum NETWORK {
   MEGAETH = 'megaeth-mainnet',
   MONAD = 'monad',
   OPTIMISM = 'optimism',
+  SLURA = 'slura-devnet',
   SONEIUM = 'soneium-mainnet',
   TEMPO = 'tempo',
   UNICHAIN = 'unichain-mainnet',
